@@ -3,11 +3,13 @@ runs/
 
 # Dataset folders and zip files
 Face Detection.*
+classification/
 *.zip
 
 # Model weights
 *.pt
 !Part A - Object Detection/face_detection_best.pt
+!Part B - Classification/car_color_best.pt
 
 # Python caches
 __pycache__/

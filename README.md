@@ -9,9 +9,10 @@ This repository contains the implementation of a multi-task computer vision syst
 - **Dataset**: Roboflow Face Detection
 - **Model**: YOLOv11 Nano
 
-### Part B: Image Classification
-- **Status**: ⏳ Pending
-- **Dataset**: TBD
+### [Part B: Image Classification (Car Colors)](./Part%20B%20-%20Classification/)
+- **Status**: ✅ Completed
+- **Dataset**: Roboflow Car Colors
+- **Model**: YOLOv11 Nano Classification
 
 ### Part C: Pose Estimation
 - **Status**: ⏳ Pending
