@@ -19,9 +19,10 @@ This repository contains the implementation of a multi-task computer vision syst
 - **Dataset**: Roboflow Yoga Pose
 - **Model**: YOLOv11 Nano Pose
 
-### Part D: Oriented Bounding Boxes (OBB)
-- **Status**: ⏳ Pending
-- **Dataset**: TBD
+### [Part D: Aerial Detection (Palm Trees)](./Part%20D%20-%20Oriented%20Bounding%20Boxes/)
+- **Status**: ⏳ In Progress
+- **Dataset**: Roboflow Aerial Palm Trees
+- **Model**: YOLOv11 Nano
 
 ## 🛠️ Requirements
 - Python 3.8+
