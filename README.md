@@ -14,9 +14,10 @@ This repository contains the implementation of a multi-task computer vision syst
 - **Dataset**: Roboflow Car Colors
 - **Model**: YOLOv11 Nano Classification
 
-### Part C: Pose Estimation
-- **Status**: ⏳ Pending
-- **Dataset**: TBD
+### [Part C: Pose Estimation (Yoga Poses)](./Part%20C%20-%20Pose%20Estimation/)
+- **Status**: ✅ Completed
+- **Dataset**: Roboflow Yoga Pose
+- **Model**: YOLOv11 Nano Pose
 
 ### Part D: Oriented Bounding Boxes (OBB)
 - **Status**: ⏳ Pending
