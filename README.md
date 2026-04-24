@@ -5,22 +5,18 @@ This repository contains the implementation of a multi-task computer vision syst
 ## 🔬 Lab Assignment Tasks
 
 ### [Part A: Object Detection (Face Detection)](./Part%20A%20-%20Object%20Detection/)
--
 - **Dataset**: Roboflow Face Detection
 - **Model**: YOLOv11 Nano
 
 ### [Part B: Image Classification (Car Colors)](./Part%20B%20-%20Classification/)
-- 
 - **Dataset**: Roboflow Car Colors
 - **Model**: YOLOv11 Nano Classification
 
 ### [Part C: Pose Estimation (Yoga Poses)](./Part%20C%20-%20Pose%20Estimation/)
-- 
 - **Dataset**: Roboflow Yoga Pose
 - **Model**: YOLOv11 Nano Pose
 
 ### [Part D: Aerial Detection (Palm Trees)](./Part%20D%20-%20Oriented%20Bounding%20Boxes/)
-- 
 - **Dataset**: Roboflow Aerial Palm Trees
 - **Model**: YOLOv11 Nano
 
