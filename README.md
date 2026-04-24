@@ -1,5 +1,7 @@
 # Multi-Task Vision System using YOLO (v11)
 
+**Team Members**: Pranay Karmankar, Raunak Singh, Aman Bansod, Sarvesh Pandey
+
 This repository contains the implementation of a multi-task computer vision system for the Deep Learning Lab Assignment. The project uses modern YOLO models (v11) to perform various tasks such as Object Detection, Classification, Pose Estimation, and OBB.
 
 ## 🔬 Lab Assignment Tasks
