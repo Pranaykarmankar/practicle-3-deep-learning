@@ -7,6 +7,7 @@ Face Detection.*
 
 # Model weights
 *.pt
+!Part A - Object Detection/face_detection_best.pt
 
 # Python caches
 __pycache__/
