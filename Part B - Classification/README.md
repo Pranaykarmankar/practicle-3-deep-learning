@@ -4,7 +4,7 @@
 To train a YOLO classification model to recognize different car colors from a dataset.
 
 ## 📊 Dataset Information
-- **Dataset**: Car Colors - v2
+- **Dataset**: [Car Colors - v2](https://universe.roboflow.com/tyler-yonjx/car-colors-1smyc/dataset/2)
 - **Source**: Roboflow
 - **Images**: 601
 - **Preprocessing**: Resized to 640x640 (fit within)
