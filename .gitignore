@@ -1,0 +1,13 @@
+# Ultralytics YOLO runs directory
+runs/
+
+# Dataset folders and zip files
+Face Detection.*
+*.zip
+
+# Model weights
+*.pt
+
+# Python caches
+__pycache__/
+*.pyc
